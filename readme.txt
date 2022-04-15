@@ -1,0 +1,1 @@
+Contraseña de maquina virtual: osint
